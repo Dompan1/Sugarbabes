@@ -1,4 +1,5 @@
 # Sugarbabes Backend API
+DIN PAPPAS NUDLAR ÄR GODKÄNDA
 
 Detta är backend-servern för Sugarbabes, en flirt/dating-plattform med premium-funktioner och AI-integration.
 
